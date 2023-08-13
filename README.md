@@ -16,9 +16,9 @@
 
 - ⚡ Ask Me About : *C , C++ , HTML , CSS , Python*
 
-- ⚡ Feel Free to Concact Me : *programmer381@gmail.com*
+- ⚡ Feel Free to Concact Me : *fahaddevelops6@gmail.com*
 
-- ⚡ About Me : *I am good at Learning and Problem Solving*
+- ⚡ About Me : *I am good Learner and Problem Solving*
 
 - ⚡ Interests : *🎯 MachineLearning* <bd>*🎯 DeepLearning<br> *🎯 Artificial Intelligence*<bd> *🎯 Web 3.O & Metaverse**
 <hr>
