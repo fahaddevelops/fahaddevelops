@@ -1,62 +1,100 @@
-<h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I am Fahad Shafique</h1>
-<br>
-<h3 align="center">A Passionate Student from pakistan having interest in Problem Solving and have Good Learning Attitude.</h3>
-<br>
-<hr>
 
-<p align="center">
-          <a href="https://github.com/ghulam-ahmad1"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=F9FF33&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+|;HTML+%7C+CSS+%7C+Python+|;Inetersted+to+Learn+New+Stacks"](https://git.io/typing-svg)></a>
-</p>
-<hr>
-<br>
+# Welcome to Fahad Shafique's GitHub Profile! 👨‍💻
 
-- ⚡ I’m Currently Learning : *FrontEnd Web Development*
+Hello, I'm **Fahad Shafique**, an **Electrical Engineer** specializing in **Artificial Intelligence (AI)** with a passion for pushing the boundaries of technology. I'm conducting research on IC-related issues like **lithography** and strive to improve processes using advanced techniques like **Convolutional Neural Networks (CNNs)** and **Reinforcement Learning**.
 
-- ⚡ I’m Currently Learning : *Full Stack Web Development*
+---
 
-- ⚡ Ask Me About : *C , C++ , HTML , CSS , Python*
+## 🚀 Expertise and Interests
 
-- ⚡ Feel Free to Concact Me : *fahaddevelops6@gmail.com*
+### 🌟 Artificial Intelligence and Machine Learning
+- Designing and training complex models for supervised, unsupervised, and reinforcement learning tasks.
+- Expertise in **Deep Learning** frameworks like **TensorFlow**, **PyTorch**, and **Keras**.
 
-- ⚡ About Me : *I am good Learner and Problem Solving*
+### 🔍 Object Detection and Computer Vision
+- Developing and optimizing object detection algorithms with **YOLO**, **Faster R-CNN**, and **SSD**.
+- Leveraging **OpenCV** for advanced image and video processing tasks.
 
-- ⚡ Interests : *🎯 MachineLearning* <bd>*🎯 DeepLearning<br> *🎯 Artificial Intelligence*<bd> *🎯 Web 3.O & Metaverse**
-<hr>
-<h2 align = "center">Links</h2>
-<p align="center">
+### 🎨 Generative AI
+- Crafting state-of-the-art generative models like **GANs**, **VAEs**, and **Diffusion Models**.
+- Researching and building applications for creative AI, including art generation, video synthesis, and natural language generation.
 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fahad Shafique" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Fahad Shafique" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Fahad Shafique" height="30" width="40" /></a>
-</p>
-<br>
-</p>
-<h1 align="center"> Tech Stack</h1><br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,git,github,py," />
-  </a>
-</p>
-<br>
+### 🖥️ GUI Development
+- Proficient in developing interactive user interfaces using **PyQt5** and **Streamlit** for seamless user experiences.
 
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahaddevelops&theme=2077"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=fahaddevelops&theme=monokai&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahaddevelops&theme=2077"/></td>
-  </tr>
-</table>
-<p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahaddevelops&theme=2077&hide_border=false" />
-    </span></a>
-<br>                 
-<hr>
-<h2 align = "center">Profile Views 👀</h2> <br> 
-<p align ="center">
-<img src="https://profile-counter.glitch.me/fahaddevelops/count.svg" />
-</p>
+### 📊 Research Areas
+- Enhancing IC manufacturing processes, such as **lithography**, using AI-driven techniques like **CNNs** and **Reinforcement Learning**.
+- Applying AI to solve real-world engineering challenges in **semiconductors** and **electronics**.
+
+---
+
+## 🌟 Featured Projects
+
+### 🔥 Deep Learning Projects
+- **Image Classification using CNNs**: Built custom CNN architectures for high-accuracy image classification.
+- **Transfer Learning with TensorFlow**: Leveraged pre-trained models like **ResNet** and **Inception** to accelerate training.
+
+### 🎯 Object Detection and Computer Vision
+- **Real-time Object Detection**: Developed a real-time object detection pipeline using **YOLOv5** and **OpenCV**.
+- **Pose Estimation**: Implemented pose estimation models to track human movements and gestures.
+
+### 🤖 Generative AI Applications
+- **Image-to-Image Translation**: Developed GAN-based solutions for tasks like **Style Transfer** and **Image Super-Resolution**.
+- **Text-to-Image Generation**: Used **Stable Diffusion** models to create AI-generated artwork.
+
+### 🛠️ Streamlit and PyQt5 Applications
+- **AI-Powered Dashboards**: Built Streamlit-based dashboards for data visualization and interactive AI models.
+- **Desktop Applications**: Designed PyQt5-based desktop GUIs for AI-powered solutions like **Object Detection Apps**.
+
+### 🎓 Research Contributions
+- **Improved Lithography using AI**: Applied CNNs and reinforcement learning to tackle lithography issues in IC manufacturing.
+- **Reinforcement Learning for Engineering Optimization**: Researched ways to enhance engineering processes using RL techniques.
+
+---
+
+## 🛠️ Tools and Technologies
+
+| **Category**            | **Tools & Frameworks**                  |
+|-------------------------|-----------------------------------------|
+| **Programming**         | Python, MATLAB                    |
+| **Machine Learning**    | TensorFlow, PyTorch, Keras             |
+| **Computer Vision**     | OpenCV, YOLO, Faster R-CNN             |
+| **Generative AI**       | GANs, Stable Diffusion, VAEs           |
+| **GUI Development**     | PyQt5, Streamlit                       |
+| **Data Visualization**  | Matplotlib, Seaborn, Plotly            |
+| **Version Control**     | Git, GitHub                            |
+| **Deployment**          | Docker, AWS, Heroku                   |
+
+---
+
+## 📈 GitHub Stats
+
+![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadshafique&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadshafique&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Fahad Shafique](https://www.linkedin.com/in/fahad-shafique-5387a4248)
+- **Fiverr**: [@FahadShafique](https://www.fiverr.com/sellers/fahadshafiqu132)
+- **Email**: fahadshafique1133@gmail.com
+
+---
+
+## 🌟 Personal Mission
+
+I am passionate about using AI to solve real-world problems and enhance engineering processes. My mission is to contribute to cutting-edge advancements in **AI-driven research** and **practical applications**, empowering industries and shaping the future of technology.
+
+---
+
+## 🌈 Additions: Animation and Fun Elements
+
+### 🎥 Profile Animation
+```html
+<img src="https://raw.githubusercontent.com/fahadshafique/fahadshafique/main/assets/profile_animation.gif" alt="Profile Animation" width="800"/>
+```
+
+
+
